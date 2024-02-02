@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    background-color: #264653;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box {
+    padding: 5rem 8rem;
+    background-color: #2a9d8f;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 25px;
+}

@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7014f2;
+ }
+ #mouseEvent{
+   width: 30rem;
+   background-color: #00f59b;
+   cursor: pointer;
+   text-align: center;
+   border-radius: 5px;
+   font-size: 25px;
+ }

@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background-color: #20a39e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#paragraph{
+    padding: 2rem 1rem;
+    background-color: #ffba49;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+}
+input{
+padding: 1.5rem 1rem;  
+font-size: 40px; 
+}

@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    background-color: #9a2684;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+input{
+    padding: 20px 100px;
+    background-color: #0adf7b;
+    font-size: 40px;
+    border: 0;
+}
+#log{
+    font-size: 35px;
+    color: white;
+}
